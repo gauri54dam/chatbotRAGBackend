@@ -1,7 +1,6 @@
 # ChaBotRAGBackend
 
 
-# ChatWithMyDocumentsDeployment
 
 This repository contains the code to deploy PDF RAG with agent and without agent both onto Databricks platform.
 
